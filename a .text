@@ -1,0 +1,69 @@
+New York City (tương tự Hà Nội)
+├── Manhattan (tương tự Bắc Từ Liêm - trung tâm, đắt đỏ nhất)
+│   ├── Midtown (East 55th Street, West 57th Street, East 64th Street)
+│   ├── Upper East Side (East 74th Street, Park Ave)
+│   ├── Harlem (W 126th St, W 127th St)
+│   ├── SoHo (Prince St, Grand St)
+│   ├── Greenwich Village (Jane St, Greenwich St)
+│   ├── Gramercy Park (Gramercy Park S)
+│   ├── Lower East Side (Suffolk St)
+│   ├── Chelsea/Flatiron (W 21st St)
+│   ├── Upper West Side (W 87th St, W End Ave, Columbus Ave, W 71st St)
+│   └── Central Park West (Central Park W)
+├── Brooklyn (tương tự Nam Từ Liêm - đông dân, đa dạng)
+│   ├── Prospect Heights (Park Place)
+│   ├── Midwood (Ocean Pkwy)
+│   ├── Cobble Hill (Hicks St)
+│   ├── Williamsburg (Berry St, N 8th St, Keap St)
+│   ├── Bay Ridge (Ovington Ave, 80th St, Ridge Blvd)
+│   ├── Crown Heights (Saint Marks Ave)
+│   ├── Dyker Heights (63rd St)
+│   ├── Coney Island (Neptune Ave)
+│   ├── Park Slope
+│   ├── Flatbush
+│   ├── East Flatbush (Hinsdale St)
+│   ├── Canarsie (Shepherd Ave, Essex St)
+│   ├── East New York (Adler Pl)
+│   ├── Brownsville (Remsen Ave)
+│   ├── Canarsie (Glenwood Rd)
+│   ├── Sunset Park (40th St)
+│   └── Coney Island (W 15th St)
+├── Queens (tương tự Hoàng Mai - ngoại ô, giá trung bình)
+│   ├── Flushing (Kissena Blvd, Union St, Union Tpke, Junction Blvd, 81st St, 85th St, Lamont Ave, Corona Ave, Woodhaven Blvd, 30 Ave)
+│   ├── Elmhurst (Lamont Ave, Corona Ave, Woodhaven Blvd)
+│   ├── Forest Hills (71st Rd, Austin St, 65th Rd)
+│   ├── Jackson Heights (85th St, 81st St, Junction Blvd)
+│   ├── Jamaica (85 Rd, 91st Ave, 85th Ave, 141st St)
+│   ├── Rego Park (Queens Blvd, 62 Dr)
+│   ├── Woodside (Hobart St, 30 Ave)
+│   ├── Little Neck (Little Neck Pkwy)
+│   ├── Long Island City (10th St)
+│   ├── Briarwood (85 Rd)
+│   ├── Ozone Park (75th St)
+│   ├── Woodhaven (91st Ave)
+│   └── Rockaway Park (Beach 129th St)
+├── Bronx (tương tự Thanh Xuân - công nghiệp, giá thấp)
+│   ├── East Bronx (Morrison Ave)
+│   ├── Concourse Village (Grand Concourse)
+│   ├── Concourse (Gerard Ave)
+│   ├── Throgs Neck (Throgs Neck Expy)
+│   ├── Hollywood (Hollywood Ave)
+│   ├── West Tremont (W Tremont Ave)
+│   ├── North Riverdale (Arlington Ave)
+│   └── Carpenter Ave
+└── Staten Island (tương tự Gia Lâm - ngoại ô, yên tĩnh)
+    ├── Sinclair Ave
+    ├── Benedict Rd
+    ├── Van Name Ave
+    ├── Annadale (Amboy Rd)
+    ├── Clifton (Hillside Ave)
+    ├── Dongan Hills (Cromwell Ave)
+    ├── Loretto St
+    ├── Lynn Ct
+    ├── Mariners Harbor (Union Ave)
+    ├── Mid Island (Austin Pl, Richmond Ter, Greenleaf Ave)
+    ├── Simon Ct
+    ├── South Greenleaf Ave
+    ├── Stafford Ave
+    ├── Sleepy Hollow Rd
+    └── Corbin Ave
