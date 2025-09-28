@@ -1,0 +1,151 @@
+Tổng số listings: 4,231
+Giá trung bình (mean): $1,967,231
+Giá trung vị (median): $838,000
+Giá min / max: $49,500 / $195,000,000
+% listings dưới $1M: 60.93%
+% listings > $3M: 11.53%
+
+Diện tích trung bình: 203.42 m²
+Giá trung bình / m²: $8,546 per m²
+
+Bảng theo BOROUGH (count, pct, median price):
+ - Bronx: 457 listings (10.8%), median $599,000
+ - Brooklyn: 1054 listings (24.91%), median $943,500
+ - Manhattan: 1182 listings (27.94%), median $1,599,500
+ - Queens: 1123 listings (26.54%), median $650,000
+ - Staten Island: 415 listings (9.81%), median $749,000
+
+Phân bố theo TYPE (top rows):
+ - co op: count 1388, median $425,000
+ - house: count 965, median $858,000
+ - condo: count 846, median $884,000
+ - multi family home: count 698, median $1,199,000
+ - townhouse: count 288, median $2,995,000
+ - land: count 46, median $675,000
+
+Phân nhóm diện tích (AREA_GROUP):
+ - <100: count 886, median $429,000
+ - 100-199: count 1020, median $866,500
+ - 200-299: count 1870, median $890,000
+ - >=300: count 455, median $3,200,000
+
+Giá trung bình theo từng quận và phòng ngủ:
+BOROUGH         Bronx   Brooklyn   Manhattan     Queens  Staten Island
+BEDS_GROUP                                                            
+1            290224.0   573463.0    846396.0   365877.0       428437.0
+2            358392.0   803272.0   1980561.0   545998.0       511940.0
+3            844720.0  1418886.0   2863069.0   786686.0       809522.0
+4            849722.0  1896214.0   7726929.0  1090652.0      1032117.0
+5            883000.0  2047667.0  12998436.0  1460304.0      1319010.0
+6           1374674.0  2237549.0  11445089.0  1574579.0      1382510.0
+7           1299571.0  2435360.0  20563808.0  1628511.0      1740500.0
+8-10        1477797.0  2273547.0  11648029.0  1650839.0      4585778.0
+10+         1315800.0  2522121.0  13368500.0  2020039.0      4516629.0
+
+Giá trung bình theo từng quận và khoảng nhà tắm:
+BOROUGH         Bronx   Brooklyn   Manhattan     Queens  Staten Island
+BATH_GROUP                                                            
+1            285013.0   519594.0    707811.0   379516.0       487348.0
+2            879015.0  1452547.0   3931477.0   915423.0       818977.0
+3            893116.0  1447638.0   3583219.0  1181685.0       808903.0
+4           1231144.0  2867495.0   6844098.0  1559928.0      1189286.0
+5           1101750.0  2644772.0   9043176.0  1528943.0      1762069.0
+6           3215667.0  3137027.0  14975827.0  1919410.0      2340648.0
+7           1220000.0  2173750.0  14320571.0  1784000.0      1550000.0
+8-10        2469600.0  2205405.0  22076405.0  2517222.0      1300000.0
+10+         4195000.0  4197111.0  12988000.0  4239500.0     13750000.0
+
+
+Số phòng (beds) — counts & median price:
+ - 0 beds: count 46, median $675,000
+ - 1 beds: count 730, median $385,000
+ - 2 beds: count 881, median $660,000
+ - 3 beds: count 1229, median $758,000
+ - 4 beds: count 495, median $1,195,000
+ - 5 beds: count 312, median $1,412,500
+ - 6 beds: count 236, median $1,415,000
+ - 7 beds: count 93, median $1,690,000
+ - 8 beds: count 75, median $1,739,888
+ - 9 beds: count 37, median $1,499,000
+
+Số phòng tắm (baths) — counts & median price:
+ - 0 baths: count 47, median $675,000
+ - 1 baths: count 1354, median $385,000
+ - 2 baths: count 1671, median $875,000
+ - 3 baths: count 419, median $1,195,000
+ - 4 baths: count 419, median $1,995,000
+ - 5 baths: count 90, median $1,699,000
+ - 6 baths: count 127, median $2,795,000
+ - 7 baths: count 21, median $1,850,000
+ - 8 baths: count 43, median $3,500,000
+ - 9 baths: count 6, median $4,000,000
+
+Regression PRICE ~ PROPERTYM2: slope 9860.78 $/m², intercept $-38,627, R² 0.1753
+Correlations: price vs propertym2 = 0.4186375663337886, price vs beds = 0.20211846662471097, price vs bath = 0.322459028437878
+
+Outlier thresholds (high): $3,003,000
+Top outliers (high prices):
+ - $195,000,000 | Manhattan | condo | 1629.983135 m²
+ - $65,000,000 | Manhattan | townhouse | 1412.1256 m²
+ - $60,000,000 | Manhattan | co op | 202.91946300338603 m²
+ - $56,000,000 | Manhattan | house | 2229.672 m²
+ - $55,000,000 | Manhattan | house | 1114.836 m²
+ - $55,000,000 | Manhattan | townhouse | 1316.900025 m²
+ - $50,000,000 | Manhattan | condo | 610.279807 m²
+ - $48,000,000 | Manhattan | co op | 202.91946300338603 m²
+ - $45,000,000 | Manhattan | co op | 202.91946300338603 m²
+ - $44,500,000 | Manhattan | co op | 202.91946300338603 m²
+
+Top brokers (by count):
+ - compass: count 423, median $1,250,000
+ - corcoran: count 318, median $1,297,500
+ - douglas elliman: count 262, median $1,225,000
+ - re/max: count 252, median $799,000
+ - keller williams: count 196, median $650,000
+ - brown harris stevens: count 157, median $1,095,000
+ - sotheby's: count 115, median $2,250,000
+ - exp: count 107, median $648,998
+ - coldwell banker: count 67, median $779,000
+ - winzone inc: count 64, median $724,500
+
+
+ Hệ số tương quan theo từng quận 
+ 	BOROUGH	level_1	PRICE
+0	Bronx	BATH	0.402179
+1	Brooklyn	BATH	0.313126
+2	Manhattan	BATH	0.489074
+3	Queens	BATH	0.531899
+4	Staten Island	BATH	0.680070
+
+BOROUGH	level_1	PRICE
+0	Bronx	BEDS	0.333455
+1	Brooklyn	BEDS	0.272087
+2	Manhattan	BEDS	0.358186
+3	Queens	BEDS	0.505132
+4	Staten Island	BEDS	0.552408
+
+BOROUGH	level_1	PRICE
+0	Bronx	PROPERTYM2	0.570074
+1	Brooklyn	PROPERTYM2	0.630864
+2	Manhattan	PROPERTYM2	0.620426
+3	Queens	PROPERTYM2	0.341896
+4	Staten Island	PROPERTYM2	0.897050
+
+
+Giá trung bình trên mỗi m² theo Quận:
+         BOROUGH        USD/m²
+0      Manhattan  15986.839401
+1       Brooklyn   7471.267245
+2         Queens   4926.168537
+3  Staten Island   4850.862996
+4          Bronx   4026.117289
+
+--------------------------------------------------
+
+Diện tích trung bình theo Quận:
+         BOROUGH          m²
+0      Manhattan  232.618458
+1  Staten Island  203.074082
+2       Brooklyn  198.496816
+3          Bronx  197.249307
+4         Queens  179.939079
