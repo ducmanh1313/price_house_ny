@@ -3508,9 +3508,9 @@ homes r us of ny inc,multi family home,1049000,4,4,"342 Manhattan St, Staten Isl
 ashford homes,multi family home,1489000,6,2,"205 Wiman Ave, Staten Island, NY 10308, USA",40.5395319,-74.1450877,351.17334,Staten Island,False,6,2,True,4240.071299262068,Low
 e  corp,multi family home,2880000,9,2,"16-33 166th St, Flushing, NY 11357, USA",40.7832094,-73.7967588,218.32205,Queens,False,9,2,True,13191.521424427812,High
 momentum real estate,multi family home,798000,3,4,"425 Father Capodanno Blvd, Staten Island, NY 10305, USA",40.5874844,-74.0701056,199.74145,Staten Island,False,3,4,True,3995.164749229567,Low
-apaus inc,land,1685000,0,0,"519 Fairview Ave, Ridgewood, NY 11385, USA",40.7083434,-73.9081614,202.91946300338603,Queens,False,3,2,True,8303.787005250862,High
-dom inc,land,2550000,0,0,"234 Ocean View Ave, Brooklyn, NY 11235, USA",40.5785288,-73.9655666,202.91946300338603,Brooklyn,False,3,2,True,12566.561936729791,High
-meyers enterprise,land,119000,0,0,"3652 De Reimer Ave, Bronx, NY 10466, USA",40.8841699,-73.8388387,202.91946300338603,Bronx,False,3,2,True,586.4395570473903,Low
+apaus inc,land,1685000,3,2,"519 Fairview Ave, Ridgewood, NY 11385, USA",40.7083434,-73.9081614,202.91946300338603,Queens,False,3,2,True,8303.787005250862,High
+dom inc,land,2550000,3,2,"234 Ocean View Ave, Brooklyn, NY 11235, USA",40.5785288,-73.9655666,202.91946300338603,Brooklyn,False,3,2,True,12566.561936729791,High
+meyers enterprise,land,119000,3,2,"3652 De Reimer Ave, Bronx, NY 10466, USA",40.8841699,-73.8388387,202.91946300338603,Bronx,False,3,2,True,586.4395570473903,Low
 sowae corp,multi family home,250000,5,2,"130-24 150th St, Jamaica, NY 11436, USA",40.66911,-73.789339,202.91946300338603,Queens,False,5,2,True,1232.0158761499795,Low
 prospes real estate corp,multi family home,600000,2,2,"1406 Mac Donough Pl, Bronx, NY 10465, USA",40.8429545,-73.8249591,202.91946300338603,Bronx,False,2,2,True,2956.8381027599507,Low
 exp,multi family home,790000,6,3,"78 Mountainview Ave, Staten Island, NY 10314, USA",40.6105856,-74.1268175,234.11556,Staten Island,False,6,3,True,3374.401940648456,Low
@@ -3556,46 +3556,46 @@ century 21 dawns gold,multi family home,699999,6,2,"1839 Andrews Ave S, Bronx, N
 keller williams,multi family home,799000,5,3,"232 Throgs Neck Blvd, Bronx, NY 10465, USA",40.8181836,-73.812739,222.9672,Bronx,False,5,3,True,3583.4867191228127,Low
 keller williams,multi family home,950000,12,6,"18-29 George St, Flushing, NY 11385, USA",40.7000145,-73.9010076,202.91946300338603,Queens,False,10,6,True,4681.660329369923,Low
 carollo real estate inc,multi family home,1088888,4,2,"15-03 201st St, Bayside, NY 11360, USA",40.7860789,-73.7928524,202.91946300338603,Queens,False,4,2,True,5366.109213396796,High
-j shayovitz real estate corp,land,650000,0,0,"2998 Fulton St, Brooklyn, NY 11208, USA",40.6799197,-73.8839962,202.91946300338603,Brooklyn,False,3,2,True,3203.241277989947,Low
+j shayovitz real estate corp,land,650000,3,2,"2998 Fulton St, Brooklyn, NY 11208, USA",40.6799197,-73.8839962,202.91946300338603,Brooklyn,False,3,2,True,3203.241277989947,Low
 douglas elliman,multi family home,995000,5,2,"544 Madison St, Brooklyn, NY 11221, USA",40.6862289,-73.9364224,202.91946300338603,Brooklyn,False,5,2,True,4903.423187076919,Low
-prereal prendamano real estate,land,3950000,0,0,"750 Barclay Ave, Staten Island, NY 10312, USA",40.525422,-74.166603,202.91946300338603,Staten Island,True,3,2,True,19465.850843169675,High
+prereal prendamano real estate,land,3950000,3,2,"750 Barclay Ave, Staten Island, NY 10312, USA",40.525422,-74.166603,202.91946300338603,Staten Island,True,3,2,True,19465.850843169675,High
 prestige homes ny inc,multi family home,1529999,6,5,"116-25 134th St, Jamaica, NY 11420, USA",40.6780476,-73.8056181,222.9672,Queens,False,6,5,True,6861.991360164186,High
-paulema  inc,land,2999950,0,0,"9115 Bedell Ln, Brooklyn, NY 11236, USA",40.6444117,-73.9100389,202.91946300338603,Brooklyn,False,3,2,True,14783.944110624525,High
-e house mgt inc,land,999000,0,0,"136-17 Carlton Pl, Flushing, NY 11354, USA",40.7644631,-73.8297531,88.25785,Queens,False,3,2,True,11319.106459085508,High
-countrywide real estate inc,land,289000,0,0,"633 Mead St, Bronx, NY 10460, USA",40.842629,-73.8665973,202.91946300338603,Bronx,False,3,2,True,1424.2103528293765,Low
-c r real estate  ny,land,790000,0,0,"1815 College Point Blvd, College Point, NY 11356, USA",40.7827104,-73.8457691,202.91946300338603,Queens,False,3,2,True,3893.170168633935,Low
-landair property advisors,land,6100000,0,0,"1518 Pitkin Ave, Brooklyn, NY 11212, USA",40.6685186,-73.9175924,202.91946300338603,Brooklyn,True,3,2,True,30061.1873780595,High
-new prospective inc,land,350000,0,0,"2532 Atlantic Ave, Brooklyn, NY 11207, USA",40.6753179,-73.9008593,202.91946300338603,Brooklyn,False,3,2,True,1724.8222266099715,Low
-trebach inc,land,450000,0,0,"9 Alderbrook Rd, Bronx, NY 10471, USA",40.89582,-73.9110766,202.91946300338603,Bronx,False,3,2,True,2217.6285770699633,Low
-lions guard brokerage,land,2999999,0,0,"153-10 89th Ave, Jamaica, NY 11432, USA",40.7051444,-73.8030054,202.91946300338603,Queens,False,3,2,True,14784.18558573625,High
-real estate trade co inc,land,2500000,0,0,"238 Ocean View Ave, Brooklyn, NY 11235, USA",40.578639,-73.965449,202.91946300338603,Brooklyn,False,3,2,True,12320.158761499795,High
-real estate top sales,land,350000,0,0,"8 Lake Ave, Brooklyn, NY 11235, USA",40.5844107,-73.9380366,202.91946300338603,Brooklyn,False,3,2,True,1724.8222266099715,Low
-truhomes,land,150000,0,0,"40 Cedarcliff Rd, Staten Island, NY 10301, USA",40.6171535,-74.0890497,202.91946300338603,Staten Island,False,3,2,True,739.2095256899877,Low
-es eva shammah,land,3600000,0,0,"1348 E 7th St, Brooklyn, NY 11230, USA",40.6179636,-73.9681702,202.91946300338603,Brooklyn,True,3,2,True,17741.028616559706,High
-truhomes,land,150000,0,0,"48 Cedarcliff Rd, Staten Island, NY 10301, USA",40.6170275,-74.0893192,202.91946300338603,Staten Island,False,3,2,True,739.2095256899877,Low
-sovereign of ny inc,land,199000,0,0,"164th Dr, Queens, NY 11414, USA",40.6511537,-73.8284146,202.91946300338603,Manhattan,False,3,2,True,980.6846374153837,Low
-oxford property,land,2000000,0,0,"2090 Arthur Ave, Bronx, NY 10457, USA",40.8492324,-73.8914043,202.91946300338603,Bronx,False,3,2,True,9856.127009199836,High
-landair property advisors,land,2200000,0,0,"75-43 113th St, Flushing, NY 11375, USA",40.7185125,-73.834819,202.91946300338603,Queens,False,3,2,True,10841.73971011982,High
-modern spaces love your place,land,650000,0,0,"31-42 41st St, Long Island City, NY 11103, USA",40.759972,-73.9173868,202.91946300338603,Queens,False,3,2,True,3203.241277989947,Low
-neman yoska,land,149000,0,0,"644 Jefferson Ave, Staten Island, NY 10306, USA",40.5742632,-74.086609,202.91946300338603,Staten Island,False,3,2,True,734.2814621853878,Low
-5 boro corp,land,799999,0,0,"1905 Fulton St, Brooklyn, NY 11233, USA",40.6789582,-73.9203193,202.91946300338603,Brooklyn,False,3,2,True,3942.44587561643,Low
-soverign homes inc,land,265000,0,0,"1698 E New York Ave, Brooklyn, NY 11212, USA",40.6743408,-73.9056237,202.91946300338603,Brooklyn,False,3,2,True,1305.9368287189784,Low
-jl capital real estate corp,land,795000,0,0,"1761 Topping Ave, Bronx, NY 10457, USA",40.8457524,-73.9059682,202.91946300338603,Bronx,False,3,2,True,3917.810486156935,Low
-jl capital real estate corp,land,1245000,0,0,"5437 Fieldston Rd, Bronx, NY 10471, USA",40.902657,-73.901871,202.91946300338603,Bronx,False,3,2,True,6135.439063226898,High
-crifasi real estate inc,land,549000,0,0,"1385 Dekalb Ave, Brooklyn, NY 11221, USA",40.699454,-73.924234,202.91946300338603,Brooklyn,False,3,2,True,2705.5068640253553,Low
-century 21 achievers,land,299000,0,0,"621 E 87th St, Brooklyn, NY 11236, USA",40.6415965,-73.9105958,202.91946300338603,Brooklyn,False,3,2,True,1473.4909878753756,Low
+paulema  inc,land,2999950,3,2,"9115 Bedell Ln, Brooklyn, NY 11236, USA",40.6444117,-73.9100389,202.91946300338603,Brooklyn,False,3,2,True,14783.944110624525,High
+e house mgt inc,land,999000,3,2,"136-17 Carlton Pl, Flushing, NY 11354, USA",40.7644631,-73.8297531,88.25785,Queens,False,3,2,True,11319.106459085508,High
+countrywide real estate inc,land,289000,3,2,"633 Mead St, Bronx, NY 10460, USA",40.842629,-73.8665973,202.91946300338603,Bronx,False,3,2,True,1424.2103528293765,Low
+c r real estate  ny,land,790000,3,2,"1815 College Point Blvd, College Point, NY 11356, USA",40.7827104,-73.8457691,202.91946300338603,Queens,False,3,2,True,3893.170168633935,Low
+landair property advisors,land,6100000,3,2,"1518 Pitkin Ave, Brooklyn, NY 11212, USA",40.6685186,-73.9175924,202.91946300338603,Brooklyn,True,3,2,True,30061.1873780595,High
+new prospective inc,land,350000,3,2,"2532 Atlantic Ave, Brooklyn, NY 11207, USA",40.6753179,-73.9008593,202.91946300338603,Brooklyn,False,3,2,True,1724.8222266099715,Low
+trebach inc,land,450000,3,2,"9 Alderbrook Rd, Bronx, NY 10471, USA",40.89582,-73.9110766,202.91946300338603,Bronx,False,3,2,True,2217.6285770699633,Low
+lions guard brokerage,land,2999999,3,2,"153-10 89th Ave, Jamaica, NY 11432, USA",40.7051444,-73.8030054,202.91946300338603,Queens,False,3,2,True,14784.18558573625,High
+real estate trade co inc,land,2500000,3,2,"238 Ocean View Ave, Brooklyn, NY 11235, USA",40.578639,-73.965449,202.91946300338603,Brooklyn,False,3,2,True,12320.158761499795,High
+real estate top sales,land,350000,3,2,"8 Lake Ave, Brooklyn, NY 11235, USA",40.5844107,-73.9380366,202.91946300338603,Brooklyn,False,3,2,True,1724.8222266099715,Low
+truhomes,land,150000,3,2,"40 Cedarcliff Rd, Staten Island, NY 10301, USA",40.6171535,-74.0890497,202.91946300338603,Staten Island,False,3,2,True,739.2095256899877,Low
+es eva shammah,land,3600000,3,2,"1348 E 7th St, Brooklyn, NY 11230, USA",40.6179636,-73.9681702,202.91946300338603,Brooklyn,True,3,2,True,17741.028616559706,High
+truhomes,land,150000,3,2,"48 Cedarcliff Rd, Staten Island, NY 10301, USA",40.6170275,-74.0893192,202.91946300338603,Staten Island,False,3,2,True,739.2095256899877,Low
+sovereign of ny inc,land,199000,3,2,"164th Dr, Queens, NY 11414, USA",40.6511537,-73.8284146,202.91946300338603,Manhattan,False,3,2,True,980.6846374153837,Low
+oxford property,land,2000000,3,2,"2090 Arthur Ave, Bronx, NY 10457, USA",40.8492324,-73.8914043,202.91946300338603,Bronx,False,3,2,True,9856.127009199836,High
+landair property advisors,land,2200000,3,2,"75-43 113th St, Flushing, NY 11375, USA",40.7185125,-73.834819,202.91946300338603,Queens,False,3,2,True,10841.73971011982,High
+modern spaces love your place,land,650000,3,2,"31-42 41st St, Long Island City, NY 11103, USA",40.759972,-73.9173868,202.91946300338603,Queens,False,3,2,True,3203.241277989947,Low
+neman yoska,land,149000,3,2,"644 Jefferson Ave, Staten Island, NY 10306, USA",40.5742632,-74.086609,202.91946300338603,Staten Island,False,3,2,True,734.2814621853878,Low
+5 boro corp,land,799999,3,2,"1905 Fulton St, Brooklyn, NY 11233, USA",40.6789582,-73.9203193,202.91946300338603,Brooklyn,False,3,2,True,3942.44587561643,Low
+soverign homes inc,land,265000,3,2,"1698 E New York Ave, Brooklyn, NY 11212, USA",40.6743408,-73.9056237,202.91946300338603,Brooklyn,False,3,2,True,1305.9368287189784,Low
+jl capital real estate corp,land,795000,3,2,"1761 Topping Ave, Bronx, NY 10457, USA",40.8457524,-73.9059682,202.91946300338603,Bronx,False,3,2,True,3917.810486156935,Low
+jl capital real estate corp,land,1245000,3,2,"5437 Fieldston Rd, Bronx, NY 10471, USA",40.902657,-73.901871,202.91946300338603,Bronx,False,3,2,True,6135.439063226898,High
+crifasi real estate inc,land,549000,3,2,"1385 Dekalb Ave, Brooklyn, NY 11221, USA",40.699454,-73.924234,202.91946300338603,Brooklyn,False,3,2,True,2705.5068640253553,Low
+century 21 achievers,land,299000,3,2,"621 E 87th St, Brooklyn, NY 11236, USA",40.6415965,-73.9105958,202.91946300338603,Brooklyn,False,3,2,True,1473.4909878753756,Low
 momentum real estate,multi family home,898000,6,3,"15 Spratt Ave, Staten Island, NY 10306, USA",40.5586967,-74.1351001,195.09629999999999,Staten Island,False,6,3,True,4602.8551028389575,Low
 blooming,multi family home,678990,3,3,"155 Wellbrook Ave, Staten Island, NY 10314, USA",40.6012318,-74.1300175,146.322225,Staten Island,False,3,3,True,4640.375035303078,Low
 re/max,multi family home,799900,5,2,"2339 Brigham St, Brooklyn, NY 11229, USA",40.5956263,-73.933927,162.58025,Brooklyn,False,5,2,True,4920.031799680465,Low
 re/max,multi family home,950000,6,2,"31-15 102nd St, East Elmhurst, NY 11369, USA",40.7608129,-73.8669195,202.91946300338603,Queens,False,6,2,True,4681.660329369923,Low
-ashford homes,land,348000,0,0,"952 Olympia Blvd, Staten Island, NY 10306, USA",40.575138,-74.090531,202.91946300338603,Staten Island,False,3,2,True,1714.9660996007715,Low
+ashford homes,land,348000,3,2,"952 Olympia Blvd, Staten Island, NY 10306, USA",40.575138,-74.090531,202.91946300338603,Staten Island,False,3,2,True,1714.9660996007715,Low
 american homes,multi family home,1095000,4,4,"89 Escanaba Ave, Staten Island, NY 10308, USA",40.5505648,-74.1599018,211.81884,Staten Island,False,4,4,True,5169.511833791556,Low
 stuyvesant heights corp,multi family home,825000,12,6,"344 Ashford St, Brooklyn, NY 11230, USA",40.6739463,-73.885344,202.91946300338603,Brooklyn,False,10,6,True,4065.6523912949324,Low
 ihome,multi family home,1300000,15,6,"3015 Avenue D, Brooklyn, NY 11226, USA",40.6411388,-73.9478417,457.08276,Brooklyn,False,10,6,True,2844.12389563763,Low
 homesmart homes and estates,multi family home,849000,4,2,"2033 Hobart Ave, Bronx, NY 10461, USA",40.8528127,-73.8312235,202.52854,Bronx,False,4,2,True,4192.0017791072805,Low
 real broker ny,multi family home,1150000,5,3,"162-14 97th St, Howard Beach, NY 11414, USA",40.6542535,-73.8350556,202.91946300338603,Queens,False,5,3,True,5667.273030289906,High
 douglas elliman,multi family home,1295000,4,3,"16-38 157th St, Flushing, NY 11357, USA",40.78403,-73.80579,226.68332,Queens,False,4,3,True,5712.815570197225,High
-trebach inc,land,1395000,0,0,"5239 Independence Ave, Bronx, NY 10471, USA",40.9007702,-73.9110778,202.91946300338603,Bronx,False,3,2,True,6874.648588916886,High
+trebach inc,land,1395000,3,2,"5239 Independence Ave, Bronx, NY 10471, USA",40.9007702,-73.9110778,202.91946300338603,Bronx,False,3,2,True,6874.648588916886,High
 f g volpe servicing staten island,multi family home,924800,4,3,"315 Main St, Staten Island, NY 10307, USA",40.5075446,-74.2461088,190.358247,Staten Island,False,4,3,True,4858.208218317959,Low
 neuhaus inc,multi family home,995000,5,2,"65 Rensselaer Ave, Staten Island, NY 10312, USA",40.5501403,-74.1810379,212.562064,Staten Island,False,5,2,True,4680.985784932913,Low
 trademarko inc,multi family home,998000,5,3,"95-15 108th St, South Richmond Hill, NY 11419, USA",40.6898026,-73.836542,161.465414,Queens,False,5,3,True,6180.8902307710305,High
@@ -3606,7 +3606,7 @@ b square,multi family home,849000,4,3,"65 Grant Ave, Brooklyn, NY 11208, USA",40
 keller williams,multi family home,425000,3,2,"747 E 217th St, Bronx, NY 10467, USA",40.8817944,-73.8617772,157.9351,Bronx,False,3,2,True,2690.978762795604,Low
 coldwell banker,multi family home,1250000,7,4,"346 50th St, Brooklyn, NY 11220, USA",40.6468782,-74.0136737,202.91946300338603,Brooklyn,False,7,4,True,6160.079380749898,High
 brownstone real estate carroll gardens,multi family home,1488000,6,2,"7302 11th Ave, Brooklyn, NY 11228, USA",40.624169,-74.010925,202.91946300338603,Brooklyn,False,6,2,True,7332.958494844678,High
-douglas elliman,land,285000,0,0,"12 Point Breeze Ave, Breezy Point, NY 11697, USA",40.5607533,-73.9207539,202.91946300338603,Queens,False,3,2,True,1404.4980988109767,Low
+douglas elliman,land,285000,3,2,"12 Point Breeze Ave, Breezy Point, NY 11697, USA",40.5607533,-73.9207539,202.91946300338603,Queens,False,3,2,True,1404.4980988109767,Low
 sell your home ny inc,multi family home,699000,3,3,"11448 127th St, Jamaica, NY 11420, USA",40.6793322,-73.8130504,202.91946300338603,Queens,False,3,3,True,3444.7163897153428,Low
 century 21 first,multi family home,1998000,12,8,"4015 Atlantic Ave, Brooklyn, NY 11224, USA",40.5745179,-74.0068304,473.8053,Brooklyn,False,10,8,True,4216.922014169111,Low
 nest seekers westchester,multi family home,925000,4,2,"2423 Woodhull Ave, Bronx, NY 10469, USA",40.8616602,-73.8421016,200.67048,Bronx,False,4,2,True,4609.546954788766,Low
@@ -3731,7 +3731,7 @@ cypress estates,multi family home,1175000,6,5,"115-11 142nd St, Jamaica, NY 1143
 5 boro corp,multi family home,850000,3,2,"3836 Laurel Ave, Brooklyn, NY 11224, USA",40.5776897,-74.0072206,148.6448,Brooklyn,False,3,2,True,5718.329870940658,High
 corcoran,multi family home,34000000,3,8,"217 W 21st St, New York, NY 10011, USA",40.7433901,-73.9973776,202.91946300338603,Manhattan,True,3,8,True,167554.15915639722,High
 berkshire hathaway,multi family home,1550000,6,6,"4409 Atlantic Ave, Brooklyn, NY 11224, USA",40.5757051,-74.0098832,202.91946300338603,Brooklyn,False,6,6,True,7638.498432129873,High
-nest seekers  west,land,1200000,0,0,"2316 1st Ave., New York, NY 10035, USA",40.797735,-73.933806,202.91946300338603,Manhattan,False,3,2,True,5913.6762055199015,High
+nest seekers  west,land,1200000,3,2,"2316 1st Ave., New York, NY 10035, USA",40.797735,-73.933806,202.91946300338603,Manhattan,False,3,2,True,5913.6762055199015,High
 re/max,multi family home,999998,4,4,"220 Nome Ave, Staten Island, NY 10314, USA",40.5862681,-74.1585168,252.69616,Staten Island,False,4,4,True,3957.3137953501155,Low
 coldwell banker,multi family home,1358000,6,3,"1016 Putnam Ave, Brooklyn, NY 11221, USA",40.6871306,-73.9215141,202.91946300338603,Brooklyn,False,6,3,True,6692.310239246689,High
 douglas elliman,multi family home,1200000,6,6,"71-12 66th St, Flushing, NY 11385, USA",40.7023326,-73.8891107,530.661936,Queens,False,6,6,True,2261.3266914248775,Low
@@ -3751,7 +3751,7 @@ weichert realtors the franzese,multi family home,2489000,4,4,"230 7th St, Brookl
 b square,multi family home,1090000,5,3,"507 127th St, Flushing, NY 11356, USA",40.7922364,-73.8405165,202.91946300338603,Queens,False,5,3,True,5371.589220013911,High
 realhome services solutions,multi family home,471300,4,2,"672 Van Siclen Ave, Brooklyn, NY 11207, USA",40.6629386,-73.8878146,202.064025,Brooklyn,False,4,2,True,2332.4290407458725,Low
 berkshire hathaway homeservices cangiano estates,multi family home,2100000,20,8,"7222 3rd Ave, Brooklyn, NY 11209, USA",40.6330213,-74.0274188,668.9016,Brooklyn,False,10,8,True,3139.475223261538,Low
-exit first choice,land,160000,0,0,"110-42 213th St, Queens Village, NY 11429, USA",40.7066981,-73.7439122,202.91946300338603,Queens,False,3,2,True,788.4901607359869,Low
+exit first choice,land,160000,3,2,"110-42 213th St, Queens Village, NY 11429, USA",40.7066981,-73.7439122,202.91946300338603,Queens,False,3,2,True,788.4901607359869,Low
 corcoran,multi family home,3650000,4,4,"35 Joralemon St, Brooklyn, NY 11201, USA",40.6938815,-73.9983127,267.56064,Brooklyn,True,4,4,True,13641.76733917216,High
 vantage partners,multi family home,681000,6,3,"694 Ashford St, Brooklyn, NY 11207, USA",40.6648825,-73.8826911,202.91946300338603,Brooklyn,False,6,3,True,3356.0112466325445,Low
 robert defalco inc,multi family home,530000,2,2,"87 Murdock Pl, Staten Island, NY 10303, USA",40.6268626,-74.1476451,155.333816,Staten Island,False,2,2,True,3412.0065652671533,Low
@@ -3784,7 +3784,7 @@ realty connect usa,multi family home,2399000,10,5,"35-05 214th Pl, Flushing, NY 
 realty trends corp,multi family home,2999990,5,6,"226 12th St, Brooklyn, NY 11215, USA",40.6681258,-73.9897865,334.4508,Brooklyn,False,5,6,True,8969.899309554648,High
 re/max,multi family home,1630000,11,6,"42-32 81st St, Elmhurst, NY 11373, USA",40.7424172,-73.8842849,202.91946300338603,Queens,False,10,6,True,8032.7435124978665,High
 s sharf inc,multi family home,1699999,6,3,"370 Marion St, Brooklyn, NY 11233, USA",40.681189,-73.9146606,255.854862,Brooklyn,False,6,3,True,6644.38809843684,High
-yourhomesold guarantee,land,250000,0,0,"1818 Unionport Rd, Bronx, NY 10462, USA",40.8453241,-73.8684042,202.91946300338603,Bronx,False,3,2,True,1232.0158761499795,Low
+yourhomesold guarantee,land,250000,3,2,"1818 Unionport Rd, Bronx, NY 10462, USA",40.8453241,-73.8684042,202.91946300338603,Bronx,False,3,2,True,1232.0158761499795,Low
 voro,multi family home,1198000,6,5,"132-31 219th St, Jamaica, NY 11413, USA",40.6811645,-73.7493264,202.91946300338603,Queens,False,6,5,True,5903.820078510702,High
 property professional,multi family home,1149999,6,3,"86-58 261st St, Queens, NY 11001, USA",40.7320002,-73.7055812,202.91946300338603,Queens,False,6,3,True,5667.268102226401,High
 1 oak real estate hub inc,multi family home,1200000,7,2,"1278 E 70th St, Brooklyn, NY 11234, USA",40.6243164,-73.9136042,202.91946300338603,Brooklyn,False,7,2,True,5913.6762055199015,High
@@ -3883,7 +3883,7 @@ mitra hakimi,multi family home,1188000,6,2,"188-39 Ilion Ave, Jamaica, NY 11412,
 keller williams,multi family home,1399000,13,5,"487 E 93rd St #1, Brooklyn, NY 11212, USA",40.6550656,-73.9183469,202.91946300338603,Brooklyn,False,10,5,True,6894.360842935285,High
 compass,multi family home,1850000,8,4,"216 E 117th St, New York, NY 10035, USA",40.7981001,-73.9389098,464.515,Manhattan,False,8,4,True,3982.648568937494,Low
 chase global corp,multi family home,1990000,5,2,"63-12 136th St, Flushing, NY 11367, USA",40.7398861,-73.8305343,202.91946300338603,Queens,False,5,2,True,9806.846374153838,High
-jm,land,399900,0,0,"409 Slater Blvd, Staten Island, NY 10305, USA",40.5771876,-74.0829699,202.91946300338603,Staten Island,False,3,2,True,1970.7325954895073,Low
+jm,land,399900,3,2,"409 Slater Blvd, Staten Island, NY 10305, USA",40.5771876,-74.0829699,202.91946300338603,Staten Island,False,3,2,True,1970.7325954895073,Low
 best solutions inc,multi family home,1150000,4,3,"32-40 87th St, Flushing, NY 11369, USA",40.7569734,-73.8811062,202.91946300338603,Queens,False,4,3,True,5667.273030289906,High
 william raveis real estate rye,multi family home,1900000,5,4,"311 W 138th St, New York, NY 10030, USA",40.8188422,-73.9456834,338.16692,Manhattan,False,5,4,True,5618.527087155657,High
 e  corp,multi family home,2498000,6,6,"40-20 217th St, Flushing, NY 11361, USA",40.7644884,-73.7660572,295.803152,Queens,False,6,6,True,8444.805212893742,High
@@ -3986,7 +3986,7 @@ coldwell banker,multi family home,599999,4,2,"829 Pine St, Brooklyn, NY 11208, U
 re/max,multi family home,1139000,3,3,"2120 E 26th St, Brooklyn, NY 11229, USA",40.5994335,-73.9458671,234.11556,Brooklyn,False,3,3,True,4865.118747339989,Low
 nexthome all island,multi family home,2300000,11,6,"115- 49 Inwood St, Jamaica, NY 11436, USA",40.6818734,-73.7962038,202.91946300338603,Queens,False,10,6,True,11334.546060579813,High
 the greene,multi family home,1600000,9,3,"53 E 126th St, New York, NY 10035, USA",40.8062235,-73.9392312,278.709,Manhattan,False,9,3,True,5740.754693963955,High
-oxford property,land,1400000,0,0,"501 E 136th St, Bronx, NY 10454, USA",40.8065368,-73.9202661,202.91946300338603,Bronx,False,3,2,True,6899.288906439886,High
+oxford property,land,1400000,3,2,"501 E 136th St, Bronx, NY 10454, USA",40.8065368,-73.9202661,202.91946300338603,Bronx,False,3,2,True,6899.288906439886,High
 talk of the town c,multi family home,1479000,7,2,"1272 E 70th St, Brooklyn, NY 11234, USA",40.6244327,-73.913742,390.19259999999997,Brooklyn,False,7,2,True,3790.4358001663795,Low
 tiffany moves you inc,multi family home,2480000,7,6,"57-34 159th St, Flushing, NY 11365, USA",40.7411879,-73.8094885,254.55422,Queens,False,7,6,True,9742.521652165107,High
 douglas elliman,multi family home,5995000,8,6,"176 Washington Park, Brooklyn, NY 11205, USA",40.691847,-73.9732656,603.8695,Brooklyn,True,8,6,True,9927.64165105209,High
@@ -4045,7 +4045,7 @@ exit team,multi family home,1900000,6,4,"751 58th St, Brooklyn, NY 11220, USA",4
 re/max,multi family home,1795000,5,3,"166 12th St, Brooklyn, NY 11215, USA",40.6691888,-73.9919673,167.2254,Brooklyn,False,5,3,True,10734.015287151353,High
 fave inc,multi family home,980000,11,3,"2116 Vyse Ave, Bronx, NY 10460, USA",40.844215,-73.8799388,298.21863,Bronx,False,10,3,True,3286.1796729466564,Low
 richmond homes real estate inc,multi family home,1400000,5,4,"199 Vineland Ave, Staten Island, NY 10312, USA",40.5486237,-74.1868168,209.03175,Staten Island,False,5,4,True,6697.547142957948,High
-rjm empire inc,land,750000,0,0,"480 Butler Blvd, Staten Island, NY 10309, USA",40.5069018,-74.2247039,202.91946300338603,Staten Island,False,3,2,True,3696.0476284499387,Low
+rjm empire inc,land,750000,3,2,"480 Butler Blvd, Staten Island, NY 10309, USA",40.5069018,-74.2247039,202.91946300338603,Staten Island,False,3,2,True,3696.0476284499387,Low
 weichert realtors the franzese,multi family home,1750000,7,3,"20-03 49th St, Astoria, NY 11105, USA",40.7721299,-73.8960008,377.650695,Queens,False,7,3,True,4633.911768651717,Low
 e  corp,multi family home,1208000,11,6,"10-45 115th St, Flushing, NY 11356, USA",40.787452,-73.8521292,479.37948,Queens,False,10,6,True,2519.9242988039455,Low
 great success inc,multi family home,1800000,5,2,"455 Irving Ave, Brooklyn, NY 11237, USA",40.6958927,-73.9084857,202.91946300338603,Brooklyn,False,5,2,True,8870.514308279853,High
@@ -4057,7 +4057,7 @@ robert defalco inc,multi family home,1099000,6,5,"730 Bay St, Staten Island, NY 
 coldwell banker,multi family home,4000000,32,12,"154 E 105th St, New York, NY 10029, USA",40.791206,-73.946512,668.9016,Manhattan,True,10,10,True,5979.952806212453,High
 housebiz inc,multi family home,975000,7,4,"1392 Commonwealth Ave, Bronx, NY 10472, USA",40.8345273,-73.8686683,178.37376,Bronx,False,7,4,True,5466.05061192857,High
 corcoran,multi family home,1895000,5,4,"595 Van Buren St, Brooklyn, NY 11221, USA",40.6925254,-73.9260278,202.91946300338603,Brooklyn,False,5,4,True,9338.680341216845,High
-all island estates corp,land,650000,0,0,"191-43 Foothill Ave, Hollis, NY 11423, USA",40.7175476,-73.7702388,202.91946300338603,Queens,False,3,2,True,3203.241277989947,Low
+all island estates corp,land,650000,3,2,"191-43 Foothill Ave, Hollis, NY 11423, USA",40.7175476,-73.7702388,202.91946300338603,Queens,False,3,2,True,3203.241277989947,Low
 bhhs fillmore r e,multi family home,3500000,30,20,"1319 Newkirk Ave, Brooklyn, NY 11230, USA",40.6351799,-73.9646138,1709.4152,Brooklyn,True,10,10,True,2047.483841257525,Low
 ny management,multi family home,2499000,7,4,"1159 52nd St, Brooklyn, NY 11219, USA",40.6352404,-73.9966562,202.91946300338603,Brooklyn,False,7,4,True,12315.230697995195,High
 re/max,multi family home,1850000,7,3,"1517 66th St, Brooklyn, NY 11219, USA",40.6225358,-73.9970748,208.10272,Brooklyn,False,7,3,True,8889.840555664048,High
@@ -4080,7 +4080,7 @@ keystone usa corp,multi family home,1595000,9,6,"1040 Herkimer St, Brooklyn, NY 
 re/max,multi family home,1495000,3,6,"2024 Bay Ridge Ave, Brooklyn, NY 11204, USA",40.6137576,-73.9878002,478.264644,Brooklyn,False,3,6,True,3125.884421429237,Low
 corcoran,multi family home,2375000,4,4,"679 18th St, Brooklyn, NY 11218, USA",40.6537775,-73.9770686,202.91946300338603,Brooklyn,False,4,4,True,11704.150823424807,High
 sotheby's,multi family home,1849000,6,3,"219 16th St, Brooklyn, NY 11215, USA",40.6648195,-73.9891783,278.801903,Brooklyn,False,6,3,True,6631.94899354758,High
-tyme corp,land,1100000,0,0,"11208 39th Ave, Flushing, NY 11368, USA",40.7526719,-73.854675,202.91946300338603,Queens,False,3,2,True,5420.86985505991,High
+tyme corp,land,1100000,3,2,"11208 39th Ave, Flushing, NY 11368, USA",40.7526719,-73.854675,202.91946300338603,Queens,False,3,2,True,5420.86985505991,High
 5 boro corp,multi family home,1399000,8,6,"1238 E 72nd St, Brooklyn, NY 11234, USA",40.6255774,-73.913355,320.329544,Brooklyn,False,8,6,True,4367.377365604467,Low
 awaye,multi family home,2100000,3,3,"155 W 9th St, Brooklyn, NY 11231, USA",40.6756187,-74.0002793,185.806,Brooklyn,False,3,3,True,11302.110803741536,High
 accomplish,multi family home,1245000,7,6,"32-13 112th St, East Elmhurst, NY 11369, USA",40.7591289,-73.8579008,202.91946300338603,Queens,False,7,6,True,6135.439063226898,High
@@ -4110,7 +4110,7 @@ re/max,multi family home,689900,3,4,"179 Ada Dr, Staten Island, NY 10314, USA",4
 housebiz inc,multi family home,915000,8,3,"2120 Newbold Ave, Bronx, NY 10462, USA",40.8329348,-73.8535075,176.144088,Bronx,False,8,3,True,5194.610902864932,Low
 re/max,multi family home,2499000,7,8,"444 78th St, Brooklyn, NY 11209, USA",40.6278319,-74.024872,343.7411,Brooklyn,False,7,8,True,7270.006408893204,High
 douglas elliman,multi family home,5975000,12,4,"24 Fiske Pl, Brooklyn, NY 11215, USA",40.6719889,-73.9755419,202.91946300338603,Brooklyn,True,10,4,True,29445.179439984513,High
-prestige homes ny inc,land,75000,0,0,"199th St, Jamaica, NY 11412, USA",40.6942163,-73.7530902,202.91946300338603,Manhattan,False,3,2,True,369.60476284499384,Low
+prestige homes ny inc,land,75000,3,2,"199th St, Jamaica, NY 11412, USA",40.6942163,-73.7530902,202.91946300338603,Manhattan,False,3,2,True,369.60476284499384,Low
 coldwell banker,multi family home,3299000,5,3,"180 Clermont Ave, Brooklyn, NY 11205, USA",40.6923306,-73.9709219,202.91946300338603,Brooklyn,True,5,3,True,16257.68150167513,High
 r new york,multi family home,2500000,7,4,"439 E 116th St, New York, NY 10029, USA",40.7956068,-73.9338581,247.12198,Manhattan,False,7,4,True,10116.461514269187,High
 exp,multi family home,750000,5,3,"4251 Carpenter Ave, Bronx, NY 10466, USA",40.8959505,-73.859572,309.088281,Bronx,False,5,3,True,2426.491219833728,Low
@@ -4128,10 +4128,10 @@ richmont,multi family home,1090000,5,3,"22-08 Greene Ave, Flushing, NY 11385, US
 winzone inc,multi family home,1348000,6,3,"112-18 38th Ave, Flushing, NY 11368, USA",40.7535493,-73.8547131,202.91946300338603,Queens,False,6,3,True,6643.029604200689,High
 corcoran,multi family home,4800000,5,6,"206 Vanderbilt Ave, Brooklyn, NY 11205, USA",40.6912637,-73.9696573,202.91946300338603,Brooklyn,True,5,6,True,23654.704822079606,High
 re/max,multi family home,1325000,9,3,"37 Sheridan Ave, Brooklyn, NY 11208, USA",40.6817405,-73.8676128,202.91946300338603,Brooklyn,False,9,3,True,6529.684143594892,High
-ez premier,land,1002500,0,0,"667 W 246th St, Bronx, NY 10471, USA",40.892224,-73.9127628,202.91946300338603,Bronx,False,3,2,True,4940.383663361418,Low
+ez premier,land,1002500,3,2,"667 W 246th St, Bronx, NY 10471, USA",40.892224,-73.9127628,202.91946300338603,Bronx,False,3,2,True,4940.383663361418,Low
 get listed get sold nyc,multi family home,1499000,6,4,"91 Alter Ave, Staten Island, NY 10304, USA",40.5922552,-74.0972237,320.51535,Staten Island,False,6,4,True,4676.84309035433,Low
 erealty advisors inc,multi family home,1799000,7,2,"1746 Anthony Ave, Bronx, NY 10457, USA",40.8451935,-73.9036716,384.61842,Bronx,False,7,2,True,4677.363086250523,Low
-berkshire hathaway,land,675000,0,0,"34 Brighton 4th Walk, Brooklyn, NY 11235, USA",40.5802632,-73.9638613,202.91946300338603,Brooklyn,False,3,2,True,3326.442865604945,Low
+berkshire hathaway,land,675000,3,2,"34 Brighton 4th Walk, Brooklyn, NY 11235, USA",40.5802632,-73.9638613,202.91946300338603,Brooklyn,False,3,2,True,3326.442865604945,Low
 pantiga  inc,multi family home,1350000,9,3,"307 E 162nd St, Bronx, NY 10451, USA",40.8262094,-73.9164423,308.252154,Bronx,False,9,3,True,4379.531440354509,Low
 first class enterprises,multi family home,797777,4,2,"11763 140th St, Jamaica, NY 11436, USA",40.6764388,-73.8008604,202.91946300338603,Queens,False,4,2,True,3931.495718509209,Low
 crifasi real estate inc,multi family home,1049000,6,2,"75-21 67th Rd, Flushing, NY 11379, USA",40.7124648,-73.8767192,202.91946300338603,Queens,False,6,2,True,5169.538616325314,Low
@@ -4187,13 +4187,13 @@ coldwell banker,multi family home,849999,4,2,"846 E 46th St, Brooklyn, NY 11203,
 corcoran,multi family home,3900000,4,4,"366 Clermont Ave, Brooklyn, NY 11238, USA",40.6869395,-73.9698033,202.91946300338603,Brooklyn,True,4,4,True,19219.44766793968,High
 plaza island,multi family home,669000,2,1,"166 Jewett Ave, Staten Island, NY 10302, USA",40.6330311,-74.1301207,248.515525,Staten Island,False,2,1,True,2691.9847361648735,Low
 5 boro corp,multi family home,1900000,14,6,"1792 St Johns Pl, Brooklyn, NY 11233, USA",40.6696983,-73.9181397,202.91946300338603,Brooklyn,False,10,6,True,9363.320658739845,High
-berkshire hathaway,land,675000,0,0,"2932 Brighton 5th St, Brooklyn, NY 11235, USA",40.580329,-73.963661,202.91946300338603,Brooklyn,False,3,2,True,3326.442865604945,Low
+berkshire hathaway,land,675000,3,2,"2932 Brighton 5th St, Brooklyn, NY 11235, USA",40.580329,-73.963661,202.91946300338603,Brooklyn,False,3,2,True,3326.442865604945,Low
 neuhaus inc,multi family home,1299000,6,2,"433 Clove Rd, Staten Island, NY 10310, USA",40.6298438,-74.1233871,346.806899,Staten Island,False,6,2,True,3745.600228096962,Low
 lavilla homes inc,multi family home,2720000,8,4,"936 Seneca Ave, Flushing, NY 11385, USA",40.6999123,-73.9032008,202.91946300338603,Queens,False,8,4,True,13404.332732511777,High
 bedford brownstone,multi family home,1195000,3,3,"5313 Avenue H, Brooklyn, NY 11234, USA",40.6332797,-73.9249485,222.9672,Brooklyn,False,3,3,True,5359.532702567912,Low
 exit central,multi family home,2225000,7,5,"158 Stockholm St, Brooklyn, NY 11237, USA",40.6992565,-73.9227784,202.91946300338603,Brooklyn,False,7,5,True,10964.941297734818,High
 re/max,multi family home,890000,6,5,"2401 Walton Ave, Bronx, NY 10468, USA",40.8610016,-73.9014141,202.91946300338603,Bronx,False,6,5,True,4385.976519093927,Low
-bergen basin,land,1499000,0,0,"449 Mayfair Dr S #9, Brooklyn, NY 11234, USA",40.6074231,-73.9078973,202.91946300338603,Brooklyn,False,3,2,True,7387.1671933952775,High
+bergen basin,land,1499000,3,2,"449 Mayfair Dr S #9, Brooklyn, NY 11234, USA",40.6074231,-73.9078973,202.91946300338603,Brooklyn,False,3,2,True,7387.1671933952775,High
 compass,multi family home,1388000,4,2,"1801 Avenue L, Brooklyn, NY 11230, USA",40.620978,-73.957202,234.11556,Brooklyn,False,4,2,True,5928.6960678734895,High
 brooklyn s 4 u,multi family home,2599000,3,6,"102 Patchen Ave, Brooklyn, NY 11221, USA",40.6883929,-73.9273243,433.113786,Brooklyn,False,3,6,True,6000.73256499852,High
 exp,multi family home,689000,4,2,"E 228th St & Paulding Ave, Bronx, NY 10466, USA",40.8871714,-73.8506752,202.91946300338603,Manhattan,False,4,2,True,3395.4357546693436,Low
@@ -4217,7 +4217,7 @@ exp,multi family home,600000,6,2,"1622 Adams St, Bronx, NY 10460, USA",40.840363
 ben bay co,multi family home,2599000,8,2,"158 Bay 29th St, Brooklyn, NY 11214, USA",40.5992002,-73.9979142,289.85735999999997,Brooklyn,False,8,2,True,8966.479236545865,High
 exp,multi family home,1080000,5,2,"1110 Clarence Ave, Bronx, NY 10465, USA",40.8360249,-73.8189088,238.76071,Bronx,False,5,2,True,4523.357297773156,Low
 renken,multi family home,1200000,9,2,"12 Hancock St, Brooklyn, NY 11216, USA",40.681739,-73.9553364,202.91946300338603,Brooklyn,False,9,2,True,5913.6762055199015,High
-homefinders of si inc,land,225000,0,0,"229 Mosely Ave, Staten Island, NY 10312, USA",40.541076,-74.1706195,202.91946300338603,Staten Island,False,3,2,True,1108.8142885349816,Low
+homefinders of si inc,land,225000,3,2,"229 Mosely Ave, Staten Island, NY 10312, USA",40.541076,-74.1706195,202.91946300338603,Staten Island,False,3,2,True,1108.8142885349816,Low
 acg ny,multi family home,699000,5,2,"723 E 211th St, Bronx, NY 10467, USA",40.8777409,-73.8647117,194.16727,Bronx,False,5,2,True,3599.9888137686644,Low
 r new york,multi family home,2500000,3,2,"18 W 127th St, New York, NY 10027, USA",40.8079404,-73.942354,380.9023,Manhattan,False,3,2,True,6563.362836086839,High
 nobroker,multi family home,2000000,8,2,"2324 60th St, Brooklyn, NY 11204, USA",40.6147578,-73.9757141,202.91946300338603,Brooklyn,False,8,2,True,9856.127009199836,High
